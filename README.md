@@ -98,7 +98,7 @@ project-root/
 5. Start server:
 
    ```sh
-   npm run dev
+   npm run backend
    ```
 
 ---
